@@ -52,18 +52,22 @@ See the references projects for more details
 
 # Pictures
 
+## Kicad board layout
 ![kicad board layout](pictures/layout.jpg?raw=true)
 
 
+## Kicad wiring diagram 
 ![kicad wiring diagram](pictures/wiring.jpg?raw=true)
 
+## Front and back of board
 ![board side 1](pictures/side1.jpg?raw=true)
 
 ![board side 2](pictures/side2.jpg?raw=true)
 
-
+## Front and back of populated board
 ![board populated side 1](pictures/pop-side1.jpg?raw=true)
 
 ![board populated side 2](pictures/pop-side2.jpg?raw=true)
 
+## Board mounted in Pi
 ![Mounted in Pi](pictures/mounted.jpg?raw=true)
