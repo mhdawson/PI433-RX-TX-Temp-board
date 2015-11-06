@@ -51,6 +51,12 @@ See the references projects for more details
 + 433-v1-cache.lib
 + 433-v1.xml
 
+# Building gerber files needed to send to PCB manufacturer
+
++ check out the project
++ install kicad and open the v433-v1.pro project file
++ follow the instructions here: https://www.wayneandlayne.com/blog/2013/02/27/kicad-tutorial-gerber-file-generation/
+
 # Pictures
 
 ## Kicad board layout
