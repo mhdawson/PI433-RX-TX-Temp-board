@@ -13,10 +13,11 @@ projects:
 It combines the hardware needed for those projects onto a single
 PCB with all the required components.
 
-The project provides the kicad files with the board design that can
-be used to create the set of files needed by a PCB manufacturer.
+The project provides the kicad files (free from kicad-pcb.org) with the
+board design that can be used to create the set of files needed
+by a PCB manufacturer.
 
-I validate the board by having batch built by www.pcbway.com, building one
+I validated the board by having batch built by www.pcbway.com, building one
 and trying it out.  It seem to work but as always use at your own risk
 
 It was my first board and I did not work to hard on it so there are a
