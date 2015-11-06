@@ -13,7 +13,7 @@ projects:
 It combines the hardware needed for those projects onto a single
 PCB with all the required components.
 
-The project provides the kicad files (free from kicad-pcb.org) with the
+The project provides the kicad files (free from http://kicad-pcb.org) with the
 board design that can be used to create the set of files needed
 by a PCB manufacturer.
 
