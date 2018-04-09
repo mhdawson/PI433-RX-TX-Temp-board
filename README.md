@@ -1,14 +1,14 @@
-# Circuit board for Home alaram and temperature monitoring
+# Circuit board for Home alarm and temperature monitoring
 
 This projects contains information and schematics for a board that
 can be used with the Raspberry PI in order to provide the hardware for these
 projects:
 
-+ https://github.com/mdawson/PI433WirelessRecvManager
-+ https://github.com/mdawson/PI433WirelessTXManager
-+ https://github.com/mdawson/PILocalTemp
-+ https://github.com/mdawson/HomeAlarm 
-+ https://github.com/mdawson/HouseDashboard
++ https://github.com/mhdawson/PI433WirelessRecvManager
++ https://github.com/mhdawson/PI433WirelessTXManager
++ https://github.com/mhdawson/PILocalTemp
++ https://github.com/mhdawson/HomeAlarm 
++ https://github.com/mhdawson/HouseDashboard
 
 It combines the hardware needed for those projects onto a single
 PCB with all the required components.
